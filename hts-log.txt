@@ -1,11 +1,21 @@
-HTTrack3.49-2 launched on Thu, 02 Jan 2020 04:07:53 at https://m.facebook.com/legal/terms
-(winhttrack https://m.facebook.com/legal/terms -O "/home/serverlogin/websites/fb" -%v )
+HTTrack3.49-2 launched on Thu, 02 Jan 2020 07:58:21 at https://termius.com/privacy-policy
+(winhttrack https://termius.com/privacy-policy -O "/home/serverlogin/websites/fb" -%v )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+07:58:23	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://termius.com/robots.txt (from primary/primary)
+07:58:39	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://termius.com/careers/product-designer (from https://termius.com/careers)
+07:58:39	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://termius.com/careers/backend-developer (from https://termius.com/careers)
+07:58:39	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://termius.com/careers/qa-engineer (from https://termius.com/careers)
+07:58:40	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://termius.com/careers/product-designer (from https://termius.com/careers)
+07:58:41	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://termius.com/careers/backend-developer (from https://termius.com/careers)
+07:58:41	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://termius.com/careers/qa-engineer (from https://termius.com/careers)
+07:58:42	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://termius.com/careers/product-designer (from https://termius.com/careers)
+07:58:42	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://termius.com/careers/backend-developer (from https://termius.com/careers)
+07:58:42	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://termius.com/careers/qa-engineer (from https://termius.com/careers)
 
-HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (36040 bytes overall) [13654 bytes received at 6827 bytes/sec], 36655 bytes transferred using HTTP compression in 2 files, ratio 33%
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 25 links scanned, 15 files written (457997 bytes overall), 15 files updated [161165 bytes received at 7674 bytes/sec], 457997 bytes transferred using HTTP compression in 15 files, ratio 31%, 6.2 requests per connection
+(4 errors, 6 warnings, 0 messages)
