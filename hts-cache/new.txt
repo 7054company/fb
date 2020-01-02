@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:07:54	36040/36040	---MCZ	200	added ('OK')	text/html	date:Thu,%2002%20Jan%202020%2004:07:53%20GMT	https://m.facebook.com/legal/terms	/home/serverlogin/websites/fb/m.facebook.com/legal/terms.html	(from )
+04:07:55	615/615	---MCZ	200	added ('OK')	text/plain	date:Thu,%2002%20Jan%202020%2004:07:54%20GMT	https://m.facebook.com/robots.txt		(from )
